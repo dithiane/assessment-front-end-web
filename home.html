@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<title>Homepage</title>
+	<link rel="icon" href="images/favicon.svg">
+	<!-- Load Google Fonts -->
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Tenor+Sans&display=swap" rel="stylesheet">
+	<!-- Load Font Awesome Fonts -->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="css/styles.css" rel="stylesheet">
+	<link href="css/responsive.css" rel="stylesheet">
+</head>
+
+<body>
+	<nav>
+		<ol>
+			<li class="crumb"><a class="nav-link active" href="./home.html">Home</a></li>
+			<li class="crumb"><a class="nav-link" href="./profile.html">Profile</a></li>
+			<li class="crumb"><a class="nav-link" href="./neighborhood.html">Neighborhood</a></li>
+		</ol>
+	</nav>
+
+	<content>
+		<section>
+			<!-- insert hello world here -->
+			<p>Hello World!</p>
+			<section class="image-container">
+				<img class="image" src="./images/cat1.svg">
+				<img class="image" src="./images/cat2.svg">
+				<img class="image" src="./images/cat3.svg">
+				<img class="image" src="./images/cat4.svg">
+			</section>
+			<h3>I am thrilled to have you on my website! We hope you'll have good time!</h3>
+			<ul>
+				<li class="complement">I think that you have made a wonderful choice to visit my website!</li>
+				<li class="complement">Your feedback very appriciate and helpful! </li>
+				<li class="complement">I’m always happy to have a conversation with such a friendly person</li>
+			</ul>
+		</section>
+		<div id="forms">
+			<section>
+				<form>
+					<h3>How you heard about this website?</h1>
+						<input id="survey" type="radio" id="google" name="heard" value="google">
+						<label for="google">Google</label><br>
+						<input id="survey" type="radio" id="friend" name="heard" value="friend">
+						<label for="friend">A friend</label><br>
+						<input id="survey" type="radio" id="other" name="heard" value="other">
+						<label for="other">Other</label>
+				</form>
+			</section>
+			<section>
+				<form id="contact">
+					<h3>Contact Me</h3>
+					Your name: <input type="text">
+					Message: <input type="textarea">
+					<input type="submit" id="submit">
+				</form>
+			</section>
+			<section id="harts">
+				<img src="./images/hart.svg" alt="">
+				<img src="./images/hart-lg.svg" alt="">
+				<img src="./images/hart.svg" alt="">
+			</section>
+		</div>
+	</content>
+
+
+	<script src="about.js"></script>
+
+</body>
+<footer>
+	@2023 All rights reserved.
+</footer>
+	
+</html>
