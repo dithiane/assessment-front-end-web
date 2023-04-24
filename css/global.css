@@ -114,6 +114,21 @@ input {
     border-radius: 10px;
 }
 
+button {
+	width: 300px;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 20px;
+	background-color: var(--yellow);
+	color: var(--text);
+	align-self: center;
+}
+
+button:hover {
+	background-color: var(--actionHover);
+}
+
+
 footer {
     background-color: var(--whiteOff);
     display: flex;

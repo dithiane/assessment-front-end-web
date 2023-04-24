@@ -1,0 +1,64 @@
+{
+  "restaurants": [
+    {
+      "name": "Smoking Fins Highlands Ranch",
+      "cuisine": "Easygoing eatery specializing in seafood",
+      "link": "https://www.smokinfinsrestaurant.com/highlands-ranch-colorado",
+      "id": 1
+    },
+    {
+      "name": "Indulge Bistro & Wine Bar",
+      "cuisine": "Chic spot for American bites & cocktail",
+      "link": "http://www.indulgewinebar.com/",
+      "id": 2
+    },
+    {
+      "name": "Old Blinking Light",
+      "cuisine": "Southwestern-inspired American fare is offered at this stone-accented restaurant & bar with a patio.",
+      "link": "http://www.oldblinkinglight.com/",
+      "id": 3
+    },
+    {
+      "name": "Code Poke",
+      "cuisine": "Asian fusion restaurant",
+      "link": "http://www.code-poke.com/",
+      "id": 4
+    },
+    {
+      "name": "CAVA",
+      "cuisine": "Mediterranean restaurant",
+      "link": "http://try.cava.com/colorado/",
+      "id": 5
+    },
+    {
+      "name": "Mici Italian",
+      "cuisine": "Italian restaurant",
+      "link": "https://miciitalian.com/",
+      "id": 6
+    },
+    {
+      "name": "I Heart Mac & Cheese",
+      "cuisine": "American restaurant",
+      "link": "https://miciitalian.com/",
+      "id": 7
+    },
+    {
+      "name": "Shake Shack Highlands Ranch",
+      "cuisine": "Hip, counter-serve chain for gourmet takes on fast-food classics like burgers & frozen custard.",
+      "link": "https://www.shakeshack.com/location/highlands-ranch-co/?utm_source=G&utm_medium=local&utm_campaign=google-local",
+      "id": 8
+    },
+    {
+      "name": "MAD Greens",
+      "cuisine": "Counter-serve eatery offering soups & salads prepared with fresh ingredients.",
+      "link": "http://www.madgreens.com/",
+      "id": 9
+    },
+    {
+      "name": "Modern Market Eatery",
+      "cuisine": "Sleek, counter-serve cafe for health-conscious salads & sandwiches, including vegan options.",
+      "link": "https://modernmarket.com/",
+      "id": 10
+    }
+  ]
+}
